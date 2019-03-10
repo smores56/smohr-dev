@@ -1,12 +1,16 @@
 # <center> Samuel Mohr </center> #
-### <center> Software Developer </center> ###
+## <center> Software Developer </center> ##
 
-email me at [sammohr97@gmail.com](mailto:sammohr97@gmail.com)
+<center>
+*email me at [sammohr97@gmail.com](mailto:sammohr97@gmail.com)
 //
 find me on [![](./Logo-2C-21px-TM.png)](https://www.linkedin.com/in/samuel-mohr-0a6a11106/)
 //
 see my projects at [smores56](https://github.com/smores56)
-[![](./GitHub-Mark-32px.png)](https://github.com/smores56)
+[![](./GitHub-Mark-32px.png)](https://github.com/smores56)*
+</center>
+
+-------------------------------------------------------------------------------------------
 
 ### Education: ###
 
@@ -14,6 +18,8 @@ Georgia Institute of Technology
   - Bachelor of Science, May 2019
   - Computer Science, ​Threads​ in Intelligence and Media
   - Cumulative GPA​: 3.61, Dean's List
+
+-------------------------------------------------------------------------------------------
 
 ### Experience: ###
 
@@ -33,6 +39,8 @@ Cisco Systems, Alpharetta GA <br>
 - Presented progressions of work and research in front of both specialized teams and at community demos
 - Creation of internal tools for assessment of security impact on customer systems and environments
 - Worked with SQL databases, REST API’s, web-scraping, rigorous unit tests throughout development cycle
+
+-------------------------------------------------------------------------------------------
 
 ### Projects: ###
 
@@ -54,6 +62,8 @@ Bestseller Archive:
 - Developed a full stack website for archiving bestseller lists for academic use
 - Written in Python 3 with Sanic, an async Flask-like framework, with Peewee ORM on a PostgreSQL database
 - Written by a team of 5 in a Scrum environment, designed and developed for a semester each
+
+-------------------------------------------------------------------------------------------
 
 ### Skills: ###
 
