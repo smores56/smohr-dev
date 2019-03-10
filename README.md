@@ -1,14 +1,12 @@
 # <center> Samuel Mohr </center> #
 ## <center> Software Developer </center> ##
 
-<center>
 *email me at [sammohr97@gmail.com](mailto:sammohr97@gmail.com)
 //
 find me on [![](./Logo-2C-21px-TM.png)](https://www.linkedin.com/in/samuel-mohr-0a6a11106/)
 //
 see my projects at [smores56](https://github.com/smores56)
 [![](./GitHub-Mark-32px.png)](https://github.com/smores56)*
-</center>
 
 -------------------------------------------------------------------------------------------
 
