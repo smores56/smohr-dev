@@ -1,26 +1,21 @@
-# <center> **Samuel Mohr** </center> #
+# <center> Samuel Mohr </center> #
 ### <center> Software Developer </center> ###
 
-[email]: mailto:sammohr97@gmail.com
-[LinkedIn]: https://www.linkedin.com/in/samuel-mohr-0a6a11106/
-[GitHub]: https://github.com/smores56
-<center>
-email me at [sammohr97@gmail.com](email)
+email me at [sammohr97@gmail.com](mailto:sammohr97@gmail.com)
 //
-find me on [![](./Logo-2C-21px-TM.png)](LinkedIn)
+find me on [![](./Logo-2C-21px-TM.png)](https://www.linkedin.com/in/samuel-mohr-0a6a11106/)
 //
-see my projects at [smores56](GitHub)
-[![](./GitHub-Mark-32px.png)](GitHub)
-</center>
+see my projects at [smores56](https://github.com/smores56)
+[![](./GitHub-Mark-32px.png)](https://github.com/smores56)
 
-#### Education: ####
+### Education: ###
 
 Georgia Institute of Technology
   - Bachelor of Science, May 2019
   - Computer Science, ​Threads​ in Intelligence and Media
   - Cumulative GPA​: 3.61, Dean's List
 
-#### Experience: ####
+### Experience: ###
 
 Protiviti, Atlanta GA <br>
 *Consulting Intern - Summer 2018*
@@ -39,7 +34,7 @@ Cisco Systems, Alpharetta GA <br>
 - Creation of internal tools for assessment of security impact on customer systems and environments
 - Worked with SQL databases, REST API’s, web-scraping, rigorous unit tests throughout development cycle
 
-#### Projects: ####
+### Projects: ###
 
 Greasy Web:
 [![](./GitHub-Mark-32px.png)](https://github.com/smores56/grease)
@@ -60,7 +55,7 @@ Bestseller Archive:
 - Written in Python 3 with Sanic, an async Flask-like framework, with Peewee ORM on a PostgreSQL database
 - Written by a team of 5 in a Scrum environment, designed and developed for a semester each
 
-#### Skills: ####
+### Skills: ###
 
 Category          |
 -----------------:|--------------------------------------------
